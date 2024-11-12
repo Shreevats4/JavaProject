@@ -1,6 +1,7 @@
 Particle Simulation Project
 
 Author: Shree Vats
+Group Partner: Vaibhav Sharma (Roll 23BDS066)
 Roll : 23BDS055
 
 Project Overview
