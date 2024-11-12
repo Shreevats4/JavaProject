@@ -19,7 +19,7 @@ Particle-Simulation/
 │   ├── momenta.csv                 # Output file: momenta of particles
 │   ├── kinetic_energies.csv        # Output file: kinetic energies of particles
 ├── plots/                          # Optional folder for visualizations
-│   ├── momentum_vs_energy.png
+│   ├── momentum_vs_energy.png      # These diagram is included in the javaoutputvisulisation.ipynb file
 │   ├── velocity_distribution.png
 │   ├── kinetic_energy_boxplot.png
 ├── README.md                       # Project documentation
